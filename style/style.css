@@ -148,12 +148,12 @@ main img{
     width: 100%;
 }
 main img.droid{
-    max-width: 350px;
+    max-width: 490px;
     display: block;
     margin: auto;
 }
 main img.irina{
-     max-width: 350px;
+     max-width: 740px;
     display: block;
     margin: auto;
 }
